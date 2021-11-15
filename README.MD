@@ -4,7 +4,9 @@ The Objective of our assignment is to hold Social Distance amongst humans and to
 Index Term :- machine Learning Algorithm,Tensorflow , OpenCV, numpy, sklearn, Argparser,
 Imutils and YOLOv3.
 
-### You can find the video with full expanation of algrithm & code here: (https://youtu.be/sFxxMk4IDrs)
+### You can find the video with full expanation of algrithm & code here: https://youtu.be/sFxxMk4IDrs
+
+### This is the paper published by me and my team: https://www.jetir.org/view?paper=JETIRFD06040
 
 #### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
 * Download it & move to yolo-coco folder
